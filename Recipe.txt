@@ -10,4 +10,8 @@ pasta
 jalebi
 file
 
+
+beans
+pizza
+
 thank you
